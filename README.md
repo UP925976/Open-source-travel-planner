@@ -1,4 +1,4 @@
-# TFL-Travel-Planner-Artifact
+# Open-Source-Travel-Planner-Artifact
 
 To access the CSV folder go to the app folder -> src-> main -> res -> raw.
 
