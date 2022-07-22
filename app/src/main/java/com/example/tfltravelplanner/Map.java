@@ -131,10 +131,10 @@ public class Map extends AppCompatActivity implements NavigationView.OnNavigatio
         switch (menuItem.getItemId()){
             case R.id.map:
                 break;
-            case R.id.TFL_status:
-                Intent intent = new Intent(Map.this,TFLstatus.class);
-                startActivity(intent);
-                break;
+//            case R.id.TFL_status:
+//                Intent intent = new Intent(Map.this,TFLstatus.class);
+//                startActivity(intent);
+//                break;
             case R.id.nav_home:
                 Intent intent2 = new Intent(Map.this,MainActivity.class);
                 startActivity(intent2);

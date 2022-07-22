@@ -82,7 +82,7 @@
             android:background="#A1A1A1"
             android:paddingTop="16dp"
             android:paddingBottom="16dp"
-            android:text="To"
+            android:hint="To"
             android:textColor="#000000" />
     </com.google.android.material.textfield.TextInputLayout>
 

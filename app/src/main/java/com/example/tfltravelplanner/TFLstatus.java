@@ -90,8 +90,8 @@ public class TFLstatus extends AppCompatActivity implements NavigationView.OnNav
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
 
         switch (menuItem.getItemId()){
-            case R.id.TFL_status:
-                break;
+//            case R.id.TFL_status:
+//                break;
             case R.id.map:
                 Intent intent = new Intent(TFLstatus.this,Map.class);
                 startActivity(intent);
